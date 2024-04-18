@@ -262,4 +262,71 @@ Namun menariknya -  diluar fakta bahwa jumlah total partisipasi kegiatan kampany
 
 **Namun apakah artinya kampanye pemasaran yang selama ini dapat dinilai gagal? Bagaimana dengan hubungan 2 korelasi yang telah disebutkan sebelumnya?**
 
+# 2. PURCHASING MEMBERSHIP
+## Purchasing by Income
+## Purchasing by Membership
 
+## Wrap Up 3
+Kelas Medium terlihat menguasai jumlah pembelian namun apabila dirata-ratakan, jumlah rata-rata pembelian tertinggi jatuh pada individu kelas High.  Sementara itu per membership, kelompok Bronze sekali lagi dominan diantara kelompok lainnya diikuti oleh kelompok Silver. 
+Artinya, walaupun jumlah member Medium Silver yang besar, secara kualitas transaksi per individu member High Bronze adalah yang terbaik = Quality > Quantity. 
+
+Hal ini bisa berarti 2 aksi: 
+Re-targeting menuju ke target pasar yang besar, atau
+Mencari cara agar kelompok yang masuk ke kategori High Bronze bisa bertambah secara quantity, atau bahkan naik dari Bronze menuju ke silver
+
+## channel
+Berdasarkan rata-rata jumlah pembelian, “store” (toko) tetap menjadi favorit untuk semua kalangan membership: 
+* Low income class  paling banyak menggunakan web
+* Semantara Medium dan High income class menggunaka Catalogue dan pergi ke toko. 
+
+Secara garis besar, pengguna web terutama untuk member Bronze dan Silver cukup berimbang dengan  pengunjung store maupun pengguna catalogue. Namun perlu diperhatikan pada kelompok Golden dan Platinum (Low maupun medium income) jauh lebih banyak memilih untuk datang ke toko daripada yang lainnya. 
+
+## web check
+Medium SIlver adalah grup yang paling banyak melakukan pengecekan pada web,  diikuti oleh kelompok Low Golden.
+Dalam perbandingan akan seperti ini: 
+* Secara individu, rata-rata tertinggi pengunjung web adalah mereka dari kelompok Low Platinum. 
+* High income 3x lebih rendah dibanding dengan Low Income, namun dalam hal membership perbedaan tidak terlalu signifikan. 
+
+## deals taken
+Medium Silver adalah grup yang paling banyak claim deals saat bertransaksi,  diikuti oleh kelompok Medium Bronze 
+Dalam perbandingan akan seperti ini:
+* Secara individu, rata-rata tertinggi pengguna deals adalah mereka dari kelompok Medium SIlver - 
+* High income bahkan dibawah angka 1, menunjukan rendahnya ketertarikan high income terhadap deals.
+
+## Wrap Up 4
+Channel yang digunakan tidak banyak berpengaruh bagi member Bronze maupun Silver, namun sangat kentara pilihan untuk datang ke Toko dibandingkan website pada member Gold dan Platinum. 
+Meski demikian, dalam konteks sales atau deals Low Platinum yang paling banyak cek website walaupun yang pada akhirnya yang mengambil deals tersebut adalah Medium SIlver. Alasannya bisa diperkirakan: 
+
+* **Sales kurang menarik atau tidak sesuai dengan kebutuhan low income yang terutama sering berbelanja**
+
+Apabila yang dijadikan deals sering kali adalah Wine, maka ini masuk akal: Wine bukanlah kebutuhan penting apabila terdapat budget tertentu terutama untuk rumah tangga 2-3 orang. Namun, untuk Medium Income dan High Income, deals pada wine dan meat tentunya sangat menggiurkan sebagai ajang rekreasi.
+
+# KESIMPULAN DAN REKOMENDASI
+## Kesimpulan
+Demografi terbanyak adalah Middle Silver yang juga rumah tangga dengan anggota 2-3 orang:
+* Who
+    * Walaupun Golden dan Platinum member adalah Medium dan Low Income Class, High Income lah yang paling rajin ikut dalam kampanye 
+* What
+    * Wine dan daging adalah terpopuler. Walaupun angka penjualan sangat besar di kelas Medium, power purchase tetap berada pada kelas High
+
+Artinya: 
+Kampanye yang berjalan selama ini lebih menjawab kebutuhan dari High Income walaupun dari segi RFM, mereka berada di Q3 dan 4 (Bronze, Silver). 
+
+PIlihannya adalah 2: 
+Retargeting market, atau
+Growing keanggotaan high income, dimulai dari Medium class. 
+
+## Rekomendasi
+Diperlukan pengkajian lebih lanjut untuk menentukan pilihan mana yang lebih baik:
+
+* Retargeting
+    * Sales pada produk primer seperti pangan ikan, daging, sayur. Pastikan pemasangan iklan yang besar dan mencolok di toko dan info yang jelas di Website. 
+* Growing
+    * Perbanyak pilihan dalam catalog dan di toko terutama untuk produk mewah seperti wine, daging berkelas dan keju. Penekanan pada experience dalam berbelanja adalah kuncinya
+
+Namun Hati-hati!
+Retargeting artinya banyak permainan dan perbandingan harga namun pasar yang besar bisa menutup kerugian apabila dilakukan perhitungan yang tepat. 
+
+Lain halnya dengan growing karena dengan high class bukan lagi soal harga saja namun juga pengalaman berbelanja. 
+
+Karena jumlah demografi yang tidak besar, ada baiknya tetap mengincar kelas Medium (diluar hasil laporan Pew Research mengenai dilemma kelas menengah yang kemungkinan akan mempengaruhi pola berbelanja kelas menengah nantinya) 
